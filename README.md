@@ -2,7 +2,7 @@
 
 Right now, you are probably thinking this:
 
-![WAT](http://imgur.com/2K1N6N8.png)
+![WAT](./assets/wat.png)
 
 To help you with this confusion, here is a little guide to this Book:
 * This is a collection of recipes.
