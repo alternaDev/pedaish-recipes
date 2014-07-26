@@ -1,0 +1,9 @@
+{
+    "plugins": ["autocover"],
+    "pluginsConfig": {
+        "autocover": {
+            "title": "Pedaish Recipes",
+	    "author": "alternaDev"
+        }
+    }
+}
