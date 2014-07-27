@@ -1,9 +1,30 @@
 {
-    "plugins": ["autocover"],
-    "pluginsConfig": {
-        "autocover": {
-            "title": "Pedaish Recipes",
+  "plugins": ["autocover"],
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Pedaish Recipes",
 	    "author": "alternaDev"
-        }
+    },
+    "fontSettings": {
+      "theme": "sepia",
+      "family": "sans",
+      "size": 4
     }
+  },
+  "pdf": {
+    "toc": true,
+    "pageNumbers": true,
+    "fontSize": 16,
+
+    "paperSize": "a4",
+
+    // Margin (in pts)
+    // Note: 72 pts equals 1 inch
+    "margin": {
+      "right": 72,
+      "left": 72,
+      "top": 72,
+      "bottom": 72
+    }
+  }
 }
